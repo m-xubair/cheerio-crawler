@@ -1,0 +1,22 @@
+{
+  "name": "cherio-crawler",
+  "version": "1.0.0",
+  "description": "Crawl data from URL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@xub:m-xubair/cheerio-crawler.git"
+  },
+  "author": "Muhammad Zubair",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.9",
+    "mysql-await": "^2.1.8",
+    "request": "^2.88.2",
+    "sqlstring": "^2.3.2"
+  }
+}
